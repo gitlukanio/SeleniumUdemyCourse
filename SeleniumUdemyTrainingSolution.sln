@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumUdemyTrainingConsole", "SeleniumUdemyTrainingConsole\SeleniumUdemyTrainingConsole.csproj", "{69C12EE9-664E-4BF3-A932-D1B9138962CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumUdemyTrainingLibrary", "SeleniumUdemyTrainingLibrary\SeleniumUdemyTrainingLibrary.csproj", "{E5651448-E389-42DA-AFA3-3703AF24E2EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69C12EE9-664E-4BF3-A932-D1B9138962CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C12EE9-664E-4BF3-A932-D1B9138962CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C12EE9-664E-4BF3-A932-D1B9138962CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5651448-E389-42DA-AFA3-3703AF24E2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5651448-E389-42DA-AFA3-3703AF24E2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5651448-E389-42DA-AFA3-3703AF24E2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5651448-E389-42DA-AFA3-3703AF24E2EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
